@@ -5,7 +5,7 @@ Link to [Codalab competition](https://codalab.lisn.upsaclay.fr/competitions/226#
 ## Authors
 
 - *[Aleksandra Krajnović](https://github.com/akrajnovic)*
-- *Iva Milojkovic*
+- *[Iva Milojkovic](https://github.com/ivamilojkovic)*
 - *[Mariusz Wiśniewski](https://github.com/Nexer8)*
 
 ## Problem Description
